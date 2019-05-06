@@ -24,3 +24,4 @@ module.exports.parse(chordproSheet, returnFormat) {
   }
   return formatter.format(song);
 }
+
