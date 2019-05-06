@@ -1,0 +1,24 @@
+{
+  "name": "chordpro-parser",
+  "version": "1.0.0",
+  "description": "Chordpro Parser based on the chordsheejs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkhosravi/chordpro-parser.git"
+  },
+  "keywords": [
+    "chordpro",
+    "parser",
+    "guitar"
+  ],
+  "author": "Tony Khosravi",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tkhosravi/chordpro-parser/issues"
+  },
+  "homepage": "https://github.com/tkhosravi/chordpro-parser#readme"
+}
