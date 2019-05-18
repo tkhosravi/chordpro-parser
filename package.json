@@ -1,10 +1,10 @@
 {
   "name": "chordpro-parser",
-  "version": "1.0.0",
+  "version": "2.0.0-SNAPSHOT",
   "description": "Chordpro Parser based on the chordsheejs module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/tkhosravi/chordpro-parser/issues"
   },
-  "homepage": "https://github.com/tkhosravi/chordpro-parser#readme"
+  "homepage": "https://github.com/tkhosravi/chordpro-parser#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
 }
